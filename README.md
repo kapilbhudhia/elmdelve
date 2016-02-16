@@ -7,4 +7,4 @@ This is an attempt at learning elm with small fun little projects. Currently the
 DelayedCircles idea is stolen from http://elm-by-example.org/chapter7delayedcircles.html. It makes heavy use of elm Signals, if you are new to functional programming you might want to first get an introduction to functional programming before attempting to understand DelayedCircles. 
 
 Running the examples:
-start elm-reactor in the directory and then visit the page http://0.0.0.0:8000 in your browser, elm-reactor will download the necessary packages and presentthe web-page. Click the DelayedCircles.elm link in your browser and have fun.
+install elm, start elm-reactor in the directory containing the elm files and then visit the page http://0.0.0.0:8000 in your browser, elm-reactor will download the necessary packages and present the web-page. Click the DelayedCircles.elm link in your browser and have fun.

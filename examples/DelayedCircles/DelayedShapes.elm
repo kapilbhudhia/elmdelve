@@ -1,4 +1,3 @@
-import Html exposing(..)
 import Graphics.Element exposing(..)
 import Graphics.Collage exposing(..)
 import Color exposing (..)

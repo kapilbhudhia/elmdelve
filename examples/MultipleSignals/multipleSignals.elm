@@ -1,12 +1,7 @@
-import Html exposing(..)
 import Graphics.Element exposing(..)
-import Graphics.Collage exposing(..)
-import Color exposing (..)
 import Mouse
-import Window
 import Time
 import Signal.Extra exposing (..)
-import core-extra
 
 main =
   let
